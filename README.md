@@ -1,4 +1,5 @@
 # Todo
+Forces you to priorotise 5 tasks for each dat
 
 ## Features
 - deletes todo list after every day.
