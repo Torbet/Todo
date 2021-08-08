@@ -1,5 +1,6 @@
 # Todo
-Forces you to priorotise 5 tasks for each dat
+Every dev needs to make a todo app, right?
+Forces you to priorotise 5 tasks for each day
 
 ## Features
 - deletes todo list after every day.
